@@ -1,0 +1,4 @@
+[submodule "eisen"]
+	path = eisen
+	url = git@git.vauxoo.com:Vauxoo/eisen.git
+	branch = 12.0
