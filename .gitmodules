@@ -6,3 +6,7 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 12.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/Vauxoo/rma.git
+	branch = 12.0
